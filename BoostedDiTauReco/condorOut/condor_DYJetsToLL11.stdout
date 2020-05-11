@@ -1,0 +1,7 @@
+[FERMIHTC-SINGULARITY]: INFO -- No Singulariy image specified
+[FERMIHTC-SINGULARITY]: INFO -- Running job on the host machine
+
+[FERMIHTC-SINGULARITY]: INFO -- Running ./condor_exec.exe UNDEFINED plotRecoIdEff.py /uscms_data/d3/nbower/FSU/EFilterTest/CMSSW_9_4_13/src/BoostedDiTau/BoostedDiTauReco/filelists/DYJetsToLL_94X/M-1to5_HT-70to100/DYJetsToLL_94X_M-1to5_HT-70to100_0.txt DYJetsToLL eff
+Starting job on  Thu May 7 05:40:42 UTC 2020
+Running on: Linux nbower-6204844-0-cmswn1980.fnal.gov 3.10.0-1062.12.1.el7.x86_64 #1 SMP Wed Feb 5 09:10:55 CST 2020 x86_64 x86_64 x86_64 GNU/Linux
+System software: Scientific Linux release 7.7 (Nitrogen)
