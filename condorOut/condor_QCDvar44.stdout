@@ -1,0 +1,46 @@
+[FERMIHTC-SINGULARITY]: INFO -- No Singulariy image specified
+[FERMIHTC-SINGULARITY]: INFO -- Running job on the host machine
+
+[FERMIHTC-SINGULARITY]: INFO -- Running ./condor_exec.exe ./BoostedDiTauReco/plotRecoIdEffQCD.py ./BoostedDiTauReco/filelists/QCD94/HT700to1000/QCD_HT700to1000_7.txt var QCD
+Starting job on  Wed Jun 17 04:00:59 UTC 2020
+Running on: Linux nbower-7445853-0-cmswn1855.fnal.gov 3.10.0-1127.el7.x86_64 #1 SMP Wed Apr 1 12:25:50 CDT 2020 x86_64 x86_64 x86_64 GNU/Linux
+System software: Scientific Linux release 7.8 (Nitrogen)
+Reading cached build data
+Done: ProjectRename
+BoostedDiTauReco
+condor.jdl
+condorOut
+docker_stderror
+eosHadd.py
+eosHadd.py~
+graphs
+HoverE_EE
+makeTeff.py
+makeTeff.py~
+newQCD
+oldgraphs
+Out
+plotHoverE.py
+plotHoverE.py~
+plots
+QCD_eff_plots
+QCD_var_plots
+README.md
+run_condor.csh
+SignalGeneration
+submit_condor.csh
+submit_condor.csh~
+TCP_eff_plots
+TCP_var_plots
+testDY.txt
+test_QCD.txt
+test_TCP.txt
+Arguments passed to this script are: for 1: ./BoostedDiTauReco/plotRecoIdEffQCD.py
+root://cmseos.fnal.gov//store/user/nbower/QCD_var_plots/h_QCD_HT700to1000_7_var.root
+process is var
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT700to1000_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v2/110000/D89C8BAC-3E47-E911-8D67-90E2BACBAA90.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT700to1000_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v2/110000/A6689B40-4747-E911-BDD1-C0BFC0E567FE.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT700to1000_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v2/110000/C48C5DA2-4A47-E911-B47A-14DDA924324B.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT700to1000_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v2/110000/2E54DD94-FC46-E911-ABF0-0425C5DE7BEC.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT700to1000_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v2/110000/9A2AFABD-F646-E911-A3F2-E0071B8830C8.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT700to1000_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v2/110000/EAC4BC42-4747-E911-B30C-0425C5DE7BF2.root

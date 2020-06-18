@@ -1,0 +1,3 @@
+[701.8kB/701.8kB][100%][==================================================][701.8kB/s]  [701.8kB/701.8kB][100%][==================================================][701.8kB/s]  
+Error in <TNetXNGFile::Flush>: [ERROR] Server responded with an error: [3005] Unable to sync failed root://cmseos47.fnal.gov:1095///store/user/nbower/QCD_var_plots/h_QCD_HT500to700_2_var.root?&cap.msg=<...>&cap.sym=<...>&mgm.id=253c636d&mgm.logid=1599a5c8-b050-11ea-9442-ac1f6b05cb96&mgm.replicahead=0&mgm.replicaindex=1&mgm.path=/store/user/nbower/QCD_var_plots/h_QCD_HT500to700_2_var.root; remote I/O error
+

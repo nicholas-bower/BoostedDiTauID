@@ -1,0 +1,7 @@
+[701.8kB/701.8kB][100%][==================================================][701.8kB/s]  [701.8kB/701.8kB][100%][==================================================][701.8kB/s]  
+Traceback (most recent call last):
+  File "./BoostedDiTauReco/plotRecoIdEffQCD.py", line 381, in <module>
+    h['EE_relIso'].Fill(GsfEleEffAreaPFIsoCut(electron, rho), genweight)
+  File "/storage/local/data1/condor/execute/dir_30349/CMSSW_9_4_13/src/BoostedDiTauID/BoostedDiTauReco/looseElectron.py", line 82, in GsfEleEffAreaPFIsoCut
+    iso = chad + max(0.0, nhad + pho-effA*rho)
+UnboundLocalError: local variable 'effA' referenced before assignment

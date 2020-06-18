@@ -1,0 +1,101 @@
+[FERMIHTC-SINGULARITY]: INFO -- No Singulariy image specified
+[FERMIHTC-SINGULARITY]: INFO -- Running job on the host machine
+
+[FERMIHTC-SINGULARITY]: INFO -- Running ./condor_exec.exe ./BoostedDiTauReco/plotRecoIdEffQCD.py ./BoostedDiTauReco/filelists/QCD94/HT300to500/QCD_HT300to500_6.txt var QCD
+Starting job on  Wed Jun 17 04:06:25 UTC 2020
+Running on: Linux nbower-37044331-0-cmswn1699.fnal.gov 3.10.0-1127.el7.x86_64 #1 SMP Wed Apr 1 12:25:50 CDT 2020 x86_64 x86_64 x86_64 GNU/Linux
+System software: Scientific Linux release 7.8 (Nitrogen)
+Reading cached build data
+Done: ProjectRename
+BoostedDiTauReco
+condor.jdl
+condorOut
+docker_stderror
+eosHadd.py
+eosHadd.py~
+graphs
+HoverE_EE
+makeTeff.py
+makeTeff.py~
+newQCD
+oldgraphs
+Out
+plotHoverE.py
+plotHoverE.py~
+plots
+QCD_eff_plots
+QCD_var_plots
+README.md
+run_condor.csh
+SignalGeneration
+submit_condor.csh
+submit_condor.csh~
+TCP_eff_plots
+TCP_var_plots
+testDY.txt
+test_QCD.txt
+test_TCP.txt
+Arguments passed to this script are: for 1: ./BoostedDiTauReco/plotRecoIdEffQCD.py
+root://cmseos.fnal.gov//store/user/nbower/QCD_var_plots/h_QCD_HT300to500_6_var.root
+process is var
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/729E4C89-A344-E911-9A57-0CC47A4D760C.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/4E8D2EB0-B144-E911-8DC4-0CC47A7C351E.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/7259E0CD-9244-E911-8B12-0CC47A4C8E20.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/72442EC0-7B44-E911-871B-0CC47A745298.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/DAE422C7-A944-E911-A7E4-AC1F6BAC7F24.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/006492B4-B144-E911-BABA-0CC47A78A426.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/6AA2FC2E-B644-E911-99E6-0CC47A4D76C8.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/6A225A64-8A44-E911-A969-0CC47A4C8E5E.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/2EC197A1-8444-E911-A46B-AC1F6BAC7C0A.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/34F41E35-B344-E911-995F-0CC47A78A456.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/B461F04B-8D44-E911-ABAE-0025905B858A.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/B6AAF26F-8A44-E911-96E3-0025905A606A.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/B8B3510C-A244-E911-9ABB-0CC47A7C3472.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/A48ACD9A-8444-E911-B2DA-0CC47A4D7692.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/9694AE8A-A344-E911-AFF0-AC1F6BAC816C.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/B24C2468-8144-E911-B26D-0CC47A4D765A.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/2A9435EC-B344-E911-B9C9-AC1F6BAC7C4A.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/5AA7878D-7844-E911-826C-AC1F6BAC7D10.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/643DC494-8F44-E911-9EC4-0CC47A4C8E5E.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/8AB54FE4-9D44-E911-88AC-0CC47A4C8ECE.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/E6D01C35-B344-E911-9242-0CC47A78A456.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/46ABDB8D-9844-E911-AF99-0025905B857E.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/04465F8E-9844-E911-B6C1-AC1F6BAC7D10.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/AEB1CCBA-B144-E911-8282-0025905A607A.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/FC6EC68D-9844-E911-8BDB-0025905B8562.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/A85543AB-AC44-E911-A8DB-0CC47A7C3610.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/4075BB61-7B44-E911-A6FB-AC1F6BAC8152.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/6895DBB3-B144-E911-ADDE-0CC47A7C3472.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/265D1902-AA44-E911-B5B5-AC1F6BAC7EB0.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/40A4D8DC-A444-E911-8EAE-0CC47A4C8ECE.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/90550EC8-8744-E911-88CC-0CC47A4D76A0.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/82CC4B84-9844-E911-B951-0CC47A4D76D0.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/58A1C789-A344-E911-ABD0-0CC47A7C35D2.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/80DF52E4-9D44-E911-A4D0-0CC47A7C34EE.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/CC152ACD-9244-E911-A1B9-0CC47A7C34B0.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/BE1F4096-7B44-E911-B0EE-0CC47A7C346E.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/E09B957D-8744-E911-8EFB-AC1F6BAC7C4A.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/BE7ADAE7-9D44-E911-A724-0CC47A4D760A.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/72B874DA-9244-E911-9D35-0025905B85D6.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/58F84E7B-7E44-E911-8C57-0CC47A745298.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/D44CBADD-8F44-E911-8510-0CC47A7C357A.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/468ECE40-8D44-E911-9360-0CC47A4C8E96.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/DC2FFD84-B544-E911-A209-0CC47A78A456.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/0A021EE8-A444-E911-B9CF-0025905A60F4.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/36AE89CC-A444-E911-B209-0CC47A4D7600.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/C2BDEC68-8744-E911-AF13-0CC47A4C8E46.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/EE1A769A-8444-E911-8A1F-0CC47A4D76D2.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/AA477BEB-B344-E911-A842-0CC47A4D767A.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/9A8C66DA-A444-E911-AAD1-0CC47A4C8F12.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/7A5276ED-B344-E911-9F07-0CC47A745250.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/2023AD8D-9844-E911-8774-0025905B85BE.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/5C7477B8-AC44-E911-9C2C-AC1F6BAC7C06.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/1469C46F-7E44-E911-B72A-0CC47A7C346E.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/4898BB8B-A344-E911-B687-0CC47A7C34D0.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/52BD4DAB-A944-E911-A6B4-AC1F6BAC7EAE.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/78D5CC41-8D44-E911-B805-0CC47A4D76B2.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/90789A85-9844-E911-999A-0CC47A7C34D0.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/0C17B1CD-9244-E911-B3C5-0CC47A78A408.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/EA4910D8-A444-E911-8496-0CC47A4C8ECE.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/42298D82-7844-E911-AEFE-0CC47A7C34B0.root
+root://cmsxrootd.fnal.gov//store/mc/RunIIFall17MiniAODv2/QCD_HT300to500_TuneCP5_13TeV-madgraph-pythia8/MINIAODSIM/PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/70000/A6DA8DB5-B144-E911-AC18-0CC47A7C35F8.root
